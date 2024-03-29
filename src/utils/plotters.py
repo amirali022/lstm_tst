@@ -1,8 +1,8 @@
 import matplotlib.pyplot as plt
 
-def plot_loss( history):
+def plot_loss( loss):
 	plt.figure()
-	plt.plot( history.history[ "loss"])
+	plt.plot( loss)
 	plt.xlabel( "Epochs")
 	plt.title( "Training Loss")
 	plt.show()
