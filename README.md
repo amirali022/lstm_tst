@@ -18,12 +18,16 @@
 	- three timesteps
 	- single feature
 	- batch size of one
-5. [same as [4] + stacked LSTM layers](/src/LSTM_with_keras_stacked.ipynb)
+5. [same as [4] + stacked LSTM layers](./src/LSTM_with_keras_stacked.ipynb)
 	- two lstm layer (first one returns sequence)
 	- lag of three
 	- three timesteps
 	- single feature
 	- batch size of one
+
+6. [Fine Tuning LSTM Network](./src/LSTM_with_keras_tuning.ipynb)
+	- finding best number of epochs
+	- batch size
 
 #### Requirements
 
