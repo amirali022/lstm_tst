@@ -3,10 +3,27 @@
 #### Notebooks
 
 1. [Time-series prediction using LSTM implemented using keras](./src/LSTM_with_keras.ipynb)
+	- lag of one
+	- single feature for network
 2. [same as [1] + using window method](./src/LSTM_with_keras_window_input.ipynb)
-3. [same as [1] + using timesteps](./src/LSTM_with_keras_window_input.ipynb)
+	- lag of three
+	- three features for network
+	- single timestep
+3. [same as [1] + using timesteps](./src/LSTM_with_keras_timesteps.ipynb)
+	- lag of three
+	- three timesteps
+	- single feature
 4. [same as [1] + stateful training](./src/LSTM_with_keras_stateful.ipynb)
+	- lag of three
+	- three timesteps
+	- single feature
+	- batch size of one
 5. [same as [4] + stacked LSTM layers](/src/LSTM_with_keras_stacked.ipynb)
+	- two lstm layer (first one returns sequence)
+	- lag of three
+	- three timesteps
+	- single feature
+	- batch size of one
 
 #### Requirements
 
