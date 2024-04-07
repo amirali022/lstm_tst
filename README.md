@@ -29,6 +29,10 @@
 	- finding best number of epochs
 	- batch size
 
+7. [RNN Implementation](./src/RNN_Numpy.ipynb)
+	- implementing from scratch using numpy
+	- simple sentiment analysis task
+
 #### Requirements
 
 - python 3.11 or above
@@ -46,3 +50,5 @@
 #### Credit
 
 - [Time-series prediction using lstm rnn](https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/)
+- [How to Tune LSTM Hyperparameters with Keras for Time Series Forecasting](https://machinelearningmastery.com/tune-lstm-hyperparameters-keras-time-series-forecasting/)
+- [Building a Neural Network Zoo From Scratch: The Recurrent Neural Network](https://medium.com/@CallMeTwitch/building-a-neural-network-zoo-from-scratch-the-recurrent-neural-network-9357b43e113c)
