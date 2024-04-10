@@ -33,6 +33,10 @@
 	- implementing from scratch using numpy
 	- simple sentiment analysis task
 
+8. [LSTM Implementation](./src/LSTM_numpy.ipynb)
+	- implementing from scratch using numpy
+	- simple character predictor task
+	
 #### Requirements
 
 - python 3.11 or above
@@ -52,3 +56,4 @@
 - [Time-series prediction using lstm rnn](https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/)
 - [How to Tune LSTM Hyperparameters with Keras for Time Series Forecasting](https://machinelearningmastery.com/tune-lstm-hyperparameters-keras-time-series-forecasting/)
 - [Building a Neural Network Zoo From Scratch: The Recurrent Neural Network](https://medium.com/@CallMeTwitch/building-a-neural-network-zoo-from-scratch-the-recurrent-neural-network-9357b43e113c)
+- [Building a Neural Network Zoo From Scratch: The Long Short-term Memory Network](https://medium.com/@CallMeTwitch/building-a-neural-network-zoo-from-scratch-the-long-short-term-memory-network-1cec5cf31b7)
