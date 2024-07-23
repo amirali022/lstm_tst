@@ -37,6 +37,13 @@
 	- implementing from scratch using numpy
 	- simple character predictor task
 	
+#### Playgrounds
+
+- [wavelet](./src/wavelet_test_3.ipynb)
+	- playing with wavelet transform using `pywt` package
+	- implementing discrete wavelet transform and its inverse from scratch
+	- comparing two methods
+
 #### Requirements
 
 - python 3.11 or above
