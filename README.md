@@ -43,6 +43,8 @@
 	- playing with wavelet transform using `pywt` package
 	- implementing discrete wavelet transform and its inverse from scratch
 	- comparing two methods
+	- creating custom wavelet
+	- inferring filter bank from low pass analysis filter
 
 #### Requirements
 
